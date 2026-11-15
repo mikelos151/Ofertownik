@@ -1,0 +1,9 @@
+{
+  "twoRealTabs": true,
+  "webLocksAvailable": true,
+  "twoCompletionsPreserved": true,
+  "otherTabReset": true,
+  "quizPreserved": true,
+  "noResurrectionAfterReset": true,
+  "errors": []
+}

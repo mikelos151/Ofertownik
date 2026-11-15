@@ -1,0 +1,14 @@
+{
+  "renderedLessons": 15,
+  "completedAll": true,
+  "completedCount": 15,
+  "quizEmptyWrongCorrect": "pass",
+  "persistReload": "pass",
+  "resetCancelAndConfirm": "pass",
+  "downloads5Http200": "pass",
+  "corruptedStorage": "pass",
+  "blockedStorageReadWrite": "pass",
+  "routeScrollRegression": "pass",
+  "appErrorsInBlockedStorageRun": [],
+  "externalResources": []
+}

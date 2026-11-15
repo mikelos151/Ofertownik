@@ -1,0 +1,137 @@
+[
+  {
+    "id": "jedno-miejsce",
+    "title": "Jedno miejsce na każde zapytanie",
+    "expected": "Jedno miejsce na każde zapytanie",
+    "sections": 3,
+    "quiz": 3,
+    "exercise": true,
+    "overflow": false
+  },
+  {
+    "id": "pierwsza-odpowiedz",
+    "title": "Pierwsza odpowiedź i wstępna kwalifikacja",
+    "expected": "Pierwsza odpowiedź i wstępna kwalifikacja",
+    "sections": 3,
+    "quiz": 3,
+    "exercise": true,
+    "overflow": false
+  },
+  {
+    "id": "brief",
+    "title": "Brief, który pokazuje braki",
+    "expected": "Brief, który pokazuje braki",
+    "sections": 3,
+    "quiz": 3,
+    "exercise": true,
+    "overflow": false
+  },
+  {
+    "id": "przygotowanie-wizji",
+    "title": "Przygotuj wizję z konkretnym celem",
+    "expected": "Przygotuj wizję z konkretnym celem",
+    "sections": 3,
+    "quiz": 3,
+    "exercise": true,
+    "overflow": false
+  },
+  {
+    "id": "notatka-z-wizji",
+    "title": "Notatka: obserwacja, ustalenie, pytanie",
+    "expected": "Notatka: obserwacja, ustalenie, pytanie",
+    "sections": 3,
+    "quiz": 3,
+    "exercise": true,
+    "overflow": false
+  },
+  {
+    "id": "granice-zakresu",
+    "title": "Zakres podstawowy, warianty i wyłączenia",
+    "expected": "Zakres podstawowy, warianty i wyłączenia",
+    "sections": 3,
+    "quiz": 3,
+    "exercise": true,
+    "overflow": false
+  },
+  {
+    "id": "cennik-zrodlowy",
+    "title": "Jedno zatwierdzone źródło cen",
+    "expected": "Jedno zatwierdzone źródło cen",
+    "sections": 3,
+    "quiz": 3,
+    "exercise": true,
+    "overflow": false
+  },
+  {
+    "id": "kalkulacja",
+    "title": "Od zakresu do jawnej kalkulacji",
+    "expected": "Od zakresu do jawnej kalkulacji",
+    "sections": 3,
+    "quiz": 3,
+    "exercise": true,
+    "overflow": false
+  },
+  {
+    "id": "kontrola-ceny",
+    "title": "Kontrola i zatwierdzenie wyceny",
+    "expected": "Kontrola i zatwierdzenie wyceny",
+    "sections": 3,
+    "quiz": 3,
+    "exercise": true,
+    "overflow": false
+  },
+  {
+    "id": "prompt-do-szkicu",
+    "title": "Zleć AI porządkowanie, nie podejmowanie decyzji",
+    "expected": "Zleć AI porządkowanie, nie podejmowanie decyzji",
+    "sections": 3,
+    "quiz": 3,
+    "exercise": true,
+    "overflow": false
+  },
+  {
+    "id": "redakcja-oferty",
+    "title": "Sprawdź szkic zdanie po zdaniu",
+    "expected": "Sprawdź szkic zdanie po zdaniu",
+    "sections": 3,
+    "quiz": 3,
+    "exercise": true,
+    "overflow": false
+  },
+  {
+    "id": "wysylka-oferty",
+    "title": "Wysyłka konkretnej wersji i jasny następny krok",
+    "expected": "Wysyłka konkretnej wersji i jasny następny krok",
+    "sections": 3,
+    "quiz": 3,
+    "exercise": true,
+    "overflow": false
+  },
+  {
+    "id": "prosty-crm",
+    "title": "CRM oparty na następnej czynności",
+    "expected": "CRM oparty na następnej czynności",
+    "sections": 3,
+    "quiz": 3,
+    "exercise": true,
+    "overflow": false
+  },
+  {
+    "id": "follow-up",
+    "title": "Follow-up, który pomaga podjąć kolejny krok",
+    "expected": "Follow-up, który pomaga podjąć kolejny krok",
+    "sections": 3,
+    "quiz": 3,
+    "exercise": true,
+    "overflow": false
+  },
+  {
+    "id": "przeglad-procesu",
+    "title": "Przegląd procesu i wdrożenie małym krokiem",
+    "expected": "Przegląd procesu i wdrożenie małym krokiem",
+    "sections": 3,
+    "quiz": 3,
+    "exercise": true,
+    "overflow": false
+  }
+]

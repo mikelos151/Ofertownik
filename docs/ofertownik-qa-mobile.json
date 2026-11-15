@@ -1,0 +1,30 @@
+[
+  {
+    "route": "#start",
+    "width": 375,
+    "scrollWidth": 375,
+    "h1": "Dobra oferta zaczyna się przed wyceną.",
+    "overflow": false
+  },
+  {
+    "route": "#panel",
+    "width": 375,
+    "scrollWidth": 375,
+    "h1": "Warsztat dobrych ofert.",
+    "overflow": false
+  },
+  {
+    "route": "#lekcja/jedno-miejsce",
+    "width": 375,
+    "scrollWidth": 375,
+    "h1": "Jedno miejsce na każde zapytanie",
+    "overflow": false
+  },
+  {
+    "route": "#materialy",
+    "width": 375,
+    "scrollWidth": 375,
+    "h1": "Nie zaczynaj od pustej kartki.",
+    "overflow": false
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "name": "ofertownik",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Lokalna platforma nauki ofertowania dla małych firm wykonawczych",
+  "scripts": {"start": "node server.js", "test": "node --test tests/*.test.js"},
+  "engines": {"node": ">=22"}
+}

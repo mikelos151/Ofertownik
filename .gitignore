@@ -1,0 +1,9 @@
+node_modules/
+playwright-report/
+test-results/
+*.log
+.env
+.env.*
+*.zip
+node_modules/
+.env

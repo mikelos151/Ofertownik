@@ -1,0 +1,30 @@
+[
+  {
+    "mode": "reject",
+    "completion": {
+      "status": "Nie można zapisać postępu w pamięci przeglądarki. Postęp działa tylko w tej sesji i zniknie po odświeżeniu.",
+      "complete": "✓ Lekcja ukończona. Możesz wrócić do niej w każdej chwili.",
+      "saved": null,
+      "errors": []
+    },
+    "reset": {
+      "progress": "Twój postęp0%",
+      "saved": null,
+      "errors": []
+    }
+  },
+  {
+    "mode": "throw",
+    "completion": {
+      "status": "Nie można zapisać postępu w pamięci przeglądarki. Postęp działa tylko w tej sesji i zniknie po odświeżeniu.",
+      "complete": "✓ Lekcja ukończona. Możesz wrócić do niej w każdej chwili.",
+      "saved": null,
+      "errors": []
+    },
+    "reset": {
+      "progress": "Twój postęp0%",
+      "saved": null,
+      "errors": []
+    }
+  }
+]
